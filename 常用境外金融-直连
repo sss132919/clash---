@@ -7,3 +7,9 @@
 - DOMAIN-SUFFIX,hsbc.com.hk,DIRECT #香港上海汇丰银行
 - DOMAIN-KEYWORD,hangseng,DIRECT #香港恒生银行1
 - DOMAIN-SUFFIX,hangseng.com.hk,DIRECT #香港恒生银行2
+
+#第一证券
+- DOMAIN-SUFFIX,fullstory.com,代理
+- DOMAIN-KEYWORD,firstrade,代理
+- DOMAIN-SUFFIX,appsflyer.com,代理
+- DOMAIN-KEYWORD,api.apptentive.com,代理
